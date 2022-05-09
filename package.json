@@ -6,6 +6,11 @@
   "author": "AndreCosta <andre.costa101@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "jest": "^28.1.0",
+    "lint-staged": "^12.4.1",
     "standard": "^17.0.0"
+  },
+  "scripts": {
+    "test": "jest"
   }
 }
