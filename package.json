@@ -1,0 +1,8 @@
+{
+  "name": "clean-tdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AndreCosta101/clean-tdd.git",
+  "author": "AndreCosta <andre.costa101@gmail.com>",
+  "license": "MIT"
+}
